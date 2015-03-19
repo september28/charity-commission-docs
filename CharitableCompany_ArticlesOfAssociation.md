@@ -3,6 +3,7 @@
 ## Articles of Association for a Charitable Company
 
 ### Articles of Association of
+
 <!--- TODO INSERT NAME HERE --->
 
 1) The company’s name is
@@ -41,6 +42,7 @@ Apart from the exception mentioned in the previous paragraph a reference to an A
 
 ### Objects
 4) The charity’s objects (‘Objects’) are specifically restricted to the following:
+
 <!--- TODO INSERT OBJECTS HERE --->
 
 [Nothing in the articles shall authorise an application of the property of the charity for purposes which are not charitable in accordance with section 7 of the Charities and Trustee Investment (Scotland) Act 2005 and/or section 2 of the Charities Act (Northern Ireland) 2008.]
@@ -427,7 +429,9 @@ the notice was given.
     b. in the case of an electronic form of communication, 48 hours after it was sent.  
 
 ### Indemnity
+
 <!--- TODO CHOOSE OPTIONS --->
+
 [Option 1]  
 57)
   1. The charity may indemnify a relevant director against any liability incurred in that capacity, to the extent permitted by sections 232 to 234 of the Companies Act 2006.
