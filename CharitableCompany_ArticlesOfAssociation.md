@@ -3,13 +3,12 @@
 ## Articles of Association for a Charitable Company
 
 ### Articles of Association of
-
 <!--- TODO INSERT NAME HERE --->
 
 1) The company’s name is
 
   <!--- TODO INSERT NAME HERE --->
-  
+
   (and in this document it is called the ‘charity’).
 
 ### Interpretation
@@ -67,9 +66,9 @@ Apart from the exception mentioned in the previous paragraph a reference to an A
   13. to pay out of the funds of the charity the costs of forming and registering the charity both as a company and as a charity.
 
 ### Application of income and property
-6)	
+6)
   1. The income and property of the charity shall be applied solely towards the promotion of the Objects.
-  2. 	
+  2.
     a. A director is entitled to be reimbursed from the property of the charity or may pay out of such property reasonable expenses properly incurred by him or her when acting on behalf of the charity.  
     b. A director may benefit from trustee indemnity insurance cover purchased at the charity’s expense in accordance with, and subject to the conditions in, section 189 of the Charities Act 2011.  
     c. A director may receive an indemnity from the charity in the circumstances specified in article 57.  
@@ -285,7 +284,6 @@ resolutions put to the meeting; and
   3. Any meeting of directors at which a quorum is present at the time the relevant decision is made may exercise all the powers exercisable by the directors.
 
 ### Retirement of directors
-
 32) At the first annual general meeting all the directors must retire from office unless by the close of the meeting the members have failed to elect sufficient directors to hold a quorate meeting of the directors. At each subsequent annual general meeting one-third of the directors or, if their number is not three or a multiple of three, the number nearest to one-third, must retire from office. If there is only one director he or she must retire.
 
 33)
@@ -293,7 +291,6 @@ resolutions put to the meeting; and
   2. If a director is required to retire at an annual general meeting by a provision of the articles the retirement shall take effect upon the conclusion of the meeting.
 
 ### Appointment of directors
-
 34) The charity may by ordinary resolution:
   1. appoint a person who is willing to act to be a director; and
   2. determine the rotation in which any additional directors are to retire.
@@ -316,7 +313,6 @@ notice that:
 38) The appointment of a director, whether by the charity in general meeting or by the other directors, must not cause the number of directors to exceed any number fixed as the maximum number of directors.
 
 ### Disqualification and removal of directors
-
 39) A director shall cease to hold office if he or she:
   1. ceases to be a director by virtue of any provision in the Companies Acts or is prohibited by law from being a director;
   2. is disqualified from acting as a trustee by virtue of sections 178 and 179 of the Charities Act 2011 (or any statutory re‑enactment or modification of those provisions);
@@ -326,7 +322,6 @@ notice that:
   6. is absent without the permission of the directors from all their meetings held within a period of six consecutive months and the directors resolve that his or her office be vacated.
 
 ### Remuneration of directors
-
 40) The directors must not be paid any remuneration unless it is authorised by article 7.
 
 ### Proceedings of directors
@@ -355,7 +350,6 @@ notice that:
   2. The resolution in writing may comprise several documents containing the text of the resolution in like form to each of which one or more directors has signified their agreement.
 
 ### Delegation
-
 46)
   1. The directors may delegate any of their powers or functions to a committee of two or more directors but the terms of any delegation must be recorded in the minute book.
   2. The directors may impose conditions when delegating, including the conditions that:  
@@ -429,7 +423,6 @@ the notice was given.
     b. in the case of an electronic form of communication, 48 hours after it was sent.  
 
 ### Indemnity
-
 <!--- TODO CHOOSE OPTIONS --->
 
 [Option 1]  
